@@ -1,4 +1,9 @@
 #pointnet
+
+The previous version only tested with tensor flow 0.12.xx, It can not be run in tf 1.X. After a few reviison, it can be run now.
+
+
+# Original Readme
 Deep neural networks that directly consume point cloud for 3D classification and segementation, implemented in TensorFlow.
 
 ![prediction example](https://github.com/charlesq34/pointnet/blob/master/doc/teaser.png)
